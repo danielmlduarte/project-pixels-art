@@ -1,0 +1,43 @@
+#title {
+    margin-left: 40px;
+}
+
+#color-palette {
+    display: flex;
+    margin-left: 40px;
+    padding: 0;
+}
+
+.color {
+    display: flex;
+    height: 40px;
+    width: 40px;
+    margin: 3px;
+    border: 1px solid black;
+}
+
+#pixel-board {
+    display: flex;
+    margin-left: 40px;
+    padding-left: 3px;
+}
+
+.pixel {
+    display: flex;
+    height: 40px;
+    width: 40px;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    border: 1px solid black;
+}
+
+#pixel-board ul {
+    margin: 0;
+    padding: 0;
+}
+
+#clear-board {
+    margin-left: 43px;
+    margin-bottom: 20px;
+}
